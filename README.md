@@ -2,10 +2,7 @@
 
 A skill plugin that converts [AI-DLC](https://github.com/awslabs/aidlc-workflows) code generation plans into Linear tasks, organized by deliverable-based projects with full context for agent delegation.
 
-<video controls width="800">
-  <source src="docs/linear-unit-work-example.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<img src="docs/demo.gif" />
 
 ## What It Does
 
