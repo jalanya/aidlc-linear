@@ -1,0 +1,12 @@
+{
+  "name": "aidlc-linear",
+  "version": "1.0.0",
+  "description": "Create and manage Linear tasks from AI-DLC code generation plans",
+  "author": {
+    "name": "Jose Alanya",
+    "url": "https://github.com/jalanya"
+  },
+  "repository": "https://github.com/jalanya/aidlc-linear",
+  "license": "MIT",
+  "keywords": ["aidlc", "linear", "task-management", "code-generation"]
+}
